@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrvehicle.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\Github\\UnitySteamVRBookSource\\NEW\\Chapter9\\VR_Chapter_9_Project - Vehicle\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Building VR with Unity (2nd Edition) - Chapter 9 project [Testing]"
+        }
+      }
+    }
+  ]
+}

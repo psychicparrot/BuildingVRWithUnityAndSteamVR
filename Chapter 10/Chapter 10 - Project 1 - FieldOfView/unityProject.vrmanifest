@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.buildingvirtualrealitywithunityandsteamvrchapter11.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\Github\\UnitySteamVRBookSource\\NEW\\Chapter11\\VR_Chapter_11_Project1 - FieldOfView\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Building Virtual Reality with Unity and SteamVR - Chapter 11 [Testing]"
+        }
+      }
+    }
+  ]
+}

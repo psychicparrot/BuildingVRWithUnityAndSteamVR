@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.chapter3_buildingvrwithunity.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\Github\\UnitySteamVRBookSource\\NEW\\Chapter5\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Building VR with Unity 2nd Edition - Chapter 5 project [Testing]"
+        }
+      }
+    }
+  ]
+}

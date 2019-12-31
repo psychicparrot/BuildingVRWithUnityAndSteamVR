@@ -6,3 +6,5 @@ https://www.crcpress.com/Building-Virtual-Reality-with-Unity-and-Steam-VR/Murray
 Available from good book stores, or direct from the publisher.
 Amazon - https://www.amazon.com/Building-Virtual-Reality-Unity-Steam/dp/0367271303
 Chapters - https://www.chapters.indigo.ca/en-ca/books/building-virtual-reality-with-unity/9780367271305-item.html?ikwid=BUILDING+VIRTUAL+REALITY+WITH+UNITY+AND+STEAM+VR&ikwsec=Home&ikwidx=2
+
+NOTE: STEAMVR Libraries are the property of Valve. The latest SteamVR libraries can be found here: https://github.com/ValveSoftware/steamvr_unity_plugin
